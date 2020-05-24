@@ -1,0 +1,5 @@
+Techniques USed:
+ a) Target encoding
+ b) feature engineering 
+ c) extracting different eatures from date time stamp feature
+ d) feature selection using random forrest feature significance.
